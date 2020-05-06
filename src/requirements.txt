@@ -1,0 +1,6 @@
+flask
+redis
+mysql-connector-python
+mysql-connector
+PyMySQL
+cryptography
